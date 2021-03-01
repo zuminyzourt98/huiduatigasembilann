@@ -1,0 +1,4 @@
+baseURL = "https://potsdesign-ceramique.vercel.app"
+languageCode = "en-us"
+title = "Ceramic Pots Design"
+theme = "hugo-theme-minos"
